@@ -1,0 +1,21 @@
+{
+  "preset_name": "Original / Default Salt & Sanctuary",
+  "bindings": {
+    "left": ["A", "L_ANALOG_LEFT"],
+    "right": ["D", "L_ANALOG_RIGHT"],
+    "up": ["W", "L_ANALOG_UP"],
+    "down": ["S", "L_ANALOG_DOWN"],
+    "attack": ["J", "BUTTON_X"],
+    "strong": ["K", "BUTTON_Y"],
+    "jump": ["Space", "BUTTON_A"],
+    "use": ["W", "BUTTON_B"],
+    "dodge": ["LShift", "R2"],
+    "offhand": ["L", "L1"],
+    "switch_loadout": ["Q", "R1"],
+    "inventory": ["Esc", "BUTTON_START"],
+    "use_item": ["R", "DPAD_UP"],
+    "item_left": ["1", "DPAD_LEFT"],
+    "item_right": ["2", "DPAD_RIGHT"],
+    "torch": ["T", "BUTTON_L3"]
+  }
+}

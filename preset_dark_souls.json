@@ -1,0 +1,17 @@
+{
+  "preset_name": "Dark Souls Style",
+  "bindings": {
+    "dodge": ["Space", "BUTTON_B"],
+    "jump": ["LShift", "BUTTON_Y"],
+    "use": ["E", "BUTTON_A"],
+    "attack": ["LMB", "R1"],
+    "strong": ["RMB", "R2"],
+    "offhand": ["LCtrl", "L1"],
+    "switch_loadout": ["V", "L2"],
+    "use_item": ["R", "BUTTON_X"],
+    "item_left": ["Q", "DPAD_LEFT"],
+    "item_right": ["E", "DPAD_RIGHT"],
+    "torch": ["T", "DPAD_DOWN"],
+    "inventory": ["Tab", "BUTTON_START"]
+  }
+}
