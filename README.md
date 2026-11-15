@@ -1,7 +1,5 @@
 # Salt and Sanctuary — Control Preset Manager
 
-# Salt and Sanctuary — Control Preset Manager
-
 > *"Yes, I am fully aware that you can just rebind your controls in the in-game settings menu. But where is the fun in that? Besides, I was way too lazy to click through every single keybind again after reinstalling the game... and playing a Souls-like with the default layout while your muscle memory actively fights against you is pure torture."*
 
 A lightweight Python CLI & Drag-and-Drop utility for switching keyboard, mouse, and gamepad control schemes in **Salt and Sanctuary** using external `.json` preset files.
